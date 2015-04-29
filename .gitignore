@@ -13,3 +13,14 @@ dist
 /.project
 /RUNNING_PID
 /.settings
+# Ignore Play! working directory #
+bin/
+/db
+.eclipse
+/lib/
+/modules
+test-result
+server.pid
+*.iml
+*.eml
+.cache
