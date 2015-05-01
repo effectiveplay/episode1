@@ -1,4 +1,4 @@
-package com.effectiveplay.episode1.test.models
+package test.models
 
 import play.api.mvc._
 import play.api.test._
@@ -6,8 +6,6 @@ import play.api.test.Helpers._
 import play.api.db.slick.DB
 import org.scalatest._
 import org.scalatestplus.play._
-
-import scala.concurrent.Future
 
 import models._
 
